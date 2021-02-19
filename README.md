@@ -1,2 +1,22 @@
 # hm-server
-一个基于nodeJs的超轻量静态资源服务器
+A simple static server based on nodeJs.
+
+
+### install
+```
+npm i hm-server -g
+```
+
+### usage
+current dir is server root dir.
+```
+hms
+```
+
+### paramter
+
+-p port       Set server port.
+
+-h hostname   Set hostname.
+
+-d dir        Set a dir as server root. 

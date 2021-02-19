@@ -1,0 +1,32 @@
+{
+  "name": "hm-server",
+  "version": "1.0.0",
+  "description": "一个基于nodeJs的超轻量静态资源服务器",
+  "main": "src/app.js",
+  "bin": {
+    "hms": "bin/index.js"
+  }
+  ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhm19901224/hm-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhm19901224/hm-server/issues"
+  },
+  "homepage": "https://github.com/zhm19901224/hm-server#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "handlebars": "^4.7.7",
+    "install": "^0.13.0",
+    "mime": "^2.5.2",
+    "nodemon": "^2.0.7",
+    "npm": "^7.5.4",
+    "yargs": "^16.2.0"
+  }
+}
