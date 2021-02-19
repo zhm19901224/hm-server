@@ -1,6 +1,6 @@
 {
   "name": "haomin-server",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "一个基于nodeJs的超轻量静态资源服务器",
   "main": "src/app.js",
   "bin": {
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/zhm19901224/hm-server.git"
   },
-  "author": "",
+  "author": "zhanghaomin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhm19901224/hm-server/issues"
