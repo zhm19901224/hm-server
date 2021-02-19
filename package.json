@@ -1,5 +1,5 @@
 {
-  "name": "hm-server",
+  "name": "haomin-server",
   "version": "1.0.0",
   "description": "一个基于nodeJs的超轻量静态资源服务器",
   "main": "src/app.js",
